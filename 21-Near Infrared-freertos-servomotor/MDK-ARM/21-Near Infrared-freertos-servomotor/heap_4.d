@@ -1,0 +1,13 @@
+21-near infrared-freertos-servomotor\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+21-near infrared-freertos-servomotor\heap_4.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+21-near infrared-freertos-servomotor\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+21-near infrared-freertos-servomotor\heap_4.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+21-near infrared-freertos-servomotor\heap_4.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+21-near infrared-freertos-servomotor\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+21-near infrared-freertos-servomotor\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+21-near infrared-freertos-servomotor\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+21-near infrared-freertos-servomotor\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+21-near infrared-freertos-servomotor\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+21-near infrared-freertos-servomotor\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+21-near infrared-freertos-servomotor\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+21-near infrared-freertos-servomotor\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
